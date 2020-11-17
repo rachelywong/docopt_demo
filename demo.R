@@ -15,3 +15,4 @@ opt <- docopt(doc)
 print(opt)
 print(typeof(opt))
 print(arg4)
+ 
